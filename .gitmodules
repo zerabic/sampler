@@ -1,0 +1,9 @@
+[submodule "Scripts/librewave-boilerplate-hise-scripts"]
+	path = Scripts/librewave-boilerplate-hise-scripts
+	url = https://github.com/davidhealey/librewave-boilerplate-hise-scripts.git
+[submodule "Scripts/HISE-Scripting-Framework"]
+	path = Scripts/HISE-Scripting-Framework
+	url = https://github.com/davidhealey/HISE-Scripting-Framework.git
+[submodule "Scripts/RhapsodyBoilerplate"]
+	path = Scripts/RhapsodyBoilerplate
+	url = https://codeberg.org/LibreWave/RhapsodyBoilerplate.git

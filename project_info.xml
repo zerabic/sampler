@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="Nordic Drums"/>
+  <Version value="2.0.5"/>
+  <Description value="Shamanic Nordic Drums"/>
+  <BundleIdentifier value="com.frostwave.shamanic"/>
+  <PluginCode value="Lwmh"/>
+  <EmbedAudioFiles value="1"/>
+  <EmbedImageFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="0"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_NUM_PLUGIN_CHANNELS=6&#10;HISE_DEACTIVATE_OVERLAY=1&#10;HISE_USE_OPENGL_FOR_PLUGIN=1&#10;HISE_DEFAULT_OPENGL_VALUE=0&#10;AUDIOFFT_FFTW3=1"/>
+  <ExtraDefinitionsOSX value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_NUM_PLUGIN_CHANNELS=6&#10;HISE_DEACTIVATE_OVERLAY=1&#10;HISE_USE_OPENGL_FOR_PLUGIN=1&#10;AUDIOFFT_FFTW3=1"/>
+  <ExtraDefinitionsIOS value=""/>
+  <ExtraDefinitionsLinux value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_NUM_PLUGIN_CHANNELS=6&#10;HISE_DEACTIVATE_OVERLAY=1&#10;HISE_USE_OPENGL_FOR_PLUGIN=1&#10;HISE_DEFAULT_OPENGL_VALUE=0&#10;AUDIOFFT_FFTW3=1"/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <SupportMonoFX value="No"/>
+  <EnableMidiInputFX value="No"/>
+  <EnableSoundGeneratorsFX value="No"/>
+  <VST3Support value="1"/>
+  <UseRawFrontend value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value="1234"/>
+  <LinkExpansionsToProject value="No"/>
+  <ReadOnlyFactoryPresets value="1"/>
+  <ForceStereoOutput value="No"/>
+  <EnableMidiOut value="No"/>
+  <AdminPermissions value="No"/>
+  <EmbedUserPresets value="Yes"/>
+  <EnableGlobalPreprocessor value="No"/>
+  <UseGlobalAppDataFolderWindows value="No"/>
+  <UseGlobalAppDataFolderMacOS value="No"/>
+  <DefaultUserPreset value="Factory/Dark Drums/Dark skin drum"/>
+  <VST3Category value=""/>
+  <OverwriteOldUserPresets value="No"/>
+</ProjectSettings>
